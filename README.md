@@ -10,6 +10,6 @@
 ## Ссылки на проект
 
 - Домен API - https://api.egorkeen.movies.nomoredomains.rocks/
-- Сервер IPv4 - 51.250.78.225
+- Сервер IPv4 - 158.160.58.101
 - Ссылка на репозиторий GitHub - https://github.com/egorkeen/movies-explorer-api/
 - Статус - в разработке ⏳

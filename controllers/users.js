@@ -72,6 +72,7 @@ module.exports.getCurrentUser = (req, res, next) => {
       return res.status(200).send({
         name: user.name,
         email: user.email,
+        _id: user._id
       });
     })
     .catch((err) => {

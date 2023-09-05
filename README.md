@@ -2,7 +2,7 @@
 
 ## Описание
 
-Данный API является частью нашего последнего дипломного проекта от Яндекс Практикума. Он предназначен для поиска фильмов. Цель данного API помочь в авторизации, регистрации пользователей, а также для работы с фильмами.
+Данный проект является backnend-частью нашего веб-приложения. Он выполняет роль сервера, который обрабатывает запросы регистрации, авторизации, работы с данными пользователя, а также сохраняет фильмы, которые понравились пользователю.
 
 ## Стек технологий
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
